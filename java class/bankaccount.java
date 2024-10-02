@@ -26,6 +26,7 @@ public class bankaccount {
             amount= amount- withdraw;
            System.out.println("balance after withdraw amount:"+ " " + amount );
         }
+        
 
         
 
